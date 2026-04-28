@@ -4,7 +4,7 @@ package Java;
 public class fibonaci {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stu
 		
 		int n1=0,n2=1,sum=0,fibsum=0;
 		for(int t =1;t<=8;t++) {
